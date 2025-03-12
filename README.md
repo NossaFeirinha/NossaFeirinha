@@ -1,7 +1,8 @@
 # Nossa Feirinha
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://www.canva.com/design/DAGheOE9Ens/zEX0_bwlFaDsXGVCFjrZ3A/view?utm_content=DAGheOE9Ens&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee9dbfca44"/>
-&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <img src="https://github.com/NossaFeirinha/NossaFeirinha/blob/main/Logo%20NF%20-%20Fundo%20Verde%20(1).png?raw=true" width="400px">
+</p>
 
 ## 📌 Sobre o Projeto
 **Nossa Feirinha** é uma plataforma digital que conecta produtores locais a consumidores, promovendo o comércio sustentável e incentivando a economia local. A ideia é oferecer um ambiente intuitivo para compra e venda de produtos artesanais, orgânicos e caseiros.
@@ -9,17 +10,13 @@
 ## 🚀 Funcionalidades
 - 📍 **Localização de feiras**: Encontre feiras próximas com base na sua localização.
 - 🛒 **Marketplace**: Compre e venda produtos de pequenos produtores locais.
-- 💬 **Chat integrado**: Comunicação direta entre vendedores e compradores.
-- ⭐ **Avaliações**: Sistema de feedback para garantir qualidade dos produtos e serviços.
 - 📆 **Eventos e promoções**: Acompanhe novidades e promoções das feiras.
 
 ## 🛠️ Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Front-end**: HTML, CSS, JavaScript (React.js)
 - **Back-end**: Node.js com Express
-- **Banco de dados**: MongoDB
-- **Gerenciamento de estado**: Redux
-- **Autenticação**: Firebase Authentication
+- **Banco de dados**: PostgreeSQL
 
 ## 📦 Como Rodar o Projeto
 ### 1️⃣ Pré-requisitos
