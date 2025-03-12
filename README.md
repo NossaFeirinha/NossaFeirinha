@@ -5,7 +5,7 @@
 </p>
 
 ## 📌 Sobre o Projeto
-**Nossa Feirinha** é uma plataforma digital que conecta produtores locais a consumidores, promovendo o comércio sustentável e incentivando a economia local. A ideia é oferecer um ambiente intuitivo para compra e venda de produtos artesanais, orgânicos e caseiros.
+A **Nossa Feirinha**  tem como objetivo conectar consumidores e feirantes, proporcionando uma experiência mais prática e interativa. Com ela, os usuários podem visualizar feiras espalhadas pela cidade, verificar sua disponibilidade, conhecer as barracas e os produtos oferecidos. Além disso, os feirantes poderão divulgar seus produtos por meio de postagens sobre promoções, novidades e destaques. A plataforma também permitirá que os clientes realizem reservas antecipadas, que poderão ser aceitas ou recusadas pelos feirantes, garantindo mais comodidade para ambos.
 
 ## 🚀 Funcionalidades
 - 📍 **Localização de feiras**: Encontre feiras próximas com base na sua localização.
@@ -14,53 +14,10 @@
 
 ## 🛠️ Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
-- **Front-end**: HTML, CSS, JavaScript (React.js)
-- **Back-end**: Node.js com Express
-- **Banco de dados**: PostgreeSQL
-
-## 📦 Como Rodar o Projeto
-### 1️⃣ Pré-requisitos
-Antes de começar, você precisará ter instalado em sua máquina:
-- Node.js
-- Git
-- MongoDB (ou utilizar uma instância remota)
-
-### 2️⃣ Clonar o Repositório
-```sh
-git clone https://github.com/seu-usuario/nossa-feirinha.git
-cd nossa-feirinha
-```
-
-### 3️⃣ Instalar Dependências
-```sh
-npm install
-```
-
-### 4️⃣ Configurar Variáveis de Ambiente
-Crie um arquivo `.env` na raiz do projeto e adicione suas credenciais:
-```sh
-MONGO_URI=mongodb://localhost:27017/nossafeirinha
-PORT=5000
-JWT_SECRET=seu_token_secreto
-```
-
-### 5️⃣ Rodar o Servidor
-```sh
-npm start
-```
-O servidor estará disponível em `http://localhost:5000`
-
-## 📌 Contribuição
-Se você deseja contribuir com o projeto, siga os passos abaixo:
-1. Faça um **fork** do repositório
-2. Crie uma nova **branch**: `git checkout -b minha-feature`
-3. Faça as alterações e **commit**: `git commit -m 'Minha nova feature'`
-4. Envie para o repositório: `git push origin minha-feature`
-5. Abra um **Pull Request** 🎉
-
-## 📄 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo conforme necessário.
+- **Front-end**: HTML, CSS, JavaScript, SpringBoot;
+- **Back-end**: Java e SpringBoot;
+- **Banco de dados**: PostgreeSQL.
 
 ---
 
-🚀 **Nossa Feirinha** - Conectando você aos melhores produtos locais! 🥕🍞🥑
+🚀 **Nossa Feirinha** - Conectando a tradição das Feiras com a Tecnologia, para facilitar sua vida 🥕🍞🥑.
